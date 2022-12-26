@@ -1,0 +1,9 @@
+int main () {
+int x,y
+printf("bir sayı giriniz");
+scanf(%d,&x);
+printf(girdiğiniz ilk sayı :%d\n",x);
+printf(bir sayı giriniz");
+scanf(%d,&y);
+printf("girdiğiniz ikinci sayı:%d\n",y);
+}
